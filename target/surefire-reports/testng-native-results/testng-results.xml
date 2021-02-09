@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-01-31T16:21:10 MST" name="Surefire suite" finished-at="2021-01-31T16:21:10 MST" duration-ms="121">
+    <groups>
+    </groups>
+    <test started-at="2021-01-31T16:21:10 MST" name="Surefire test" finished-at="2021-01-31T16:21:10 MST" duration-ms="121">
+      <class name="qaclickacademy.Mavenjava.AppiumTest">
+        <test-method signature="android()[pri:0, instance:qaclickacademy.Mavenjava.AppiumTest@4461c7e3]" started-at="2021-01-31T16:21:10 MST" name="android" finished-at="2021-01-31T16:21:10 MST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- android -->
+        <test-method signature="iphone()[pri:0, instance:qaclickacademy.Mavenjava.AppiumTest@4461c7e3]" started-at="2021-01-31T16:21:10 MST" name="iphone" finished-at="2021-01-31T16:21:10 MST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- iphone -->
+      </class> <!-- qaclickacademy.Mavenjava.AppiumTest -->
+      <class name="qaclickacademy.Mavenjava.SeleniumTest">
+        <test-method signature="browserAutomation()[pri:0, instance:qaclickacademy.Mavenjava.SeleniumTest@351d0846]" started-at="2021-01-31T16:21:10 MST" name="browserAutomation" finished-at="2021-01-31T16:21:10 MST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserAutomation -->
+        <test-method signature="elements()[pri:0, instance:qaclickacademy.Mavenjava.SeleniumTest@351d0846]" started-at="2021-01-31T16:21:10 MST" name="elements" finished-at="2021-01-31T16:21:10 MST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elements -->
+      </class> <!-- qaclickacademy.Mavenjava.SeleniumTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
